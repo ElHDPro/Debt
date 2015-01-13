@@ -5,7 +5,7 @@
 //  Created by vloktik on 13/01/2015.
 //  Copyright (c) 2015 Loktik&Khairetdinov. All rights reserved.
 //
-
+// Asta la Vista, Baby!
 import UIKit
 
 class MasterViewController: UITableViewController {
